@@ -1,0 +1,5 @@
+Downnload the file
+
+1. Put it in C:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\lua
+2. Open Gmod and go into singleplayer
+3. Open Console and type "lua_openscript_cl health.lua" (Without quotation marks)
